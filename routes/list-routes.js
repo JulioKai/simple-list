@@ -3,10 +3,15 @@ const router = express.Router()
 const ListFunctions = require('../functions/ListFunctions')
 const validateFilePath = require('../middleware/validateFilePath')
 
-router.post('/', validateFilePath, ListFunctions.updateList)
-router.post('/file', validateFilePath, ListFunctions.updateListFromFile)
+router.get('/:file', validateFilePath, ListFunctions.getList)
+router.post('/update-file', validateFilePath, ListFunctions.updateList)
 router.post(
-    '/file/duplicates',
+    '/update-from-file',
+    validateFilePath,
+    ListFunctions.updateListFromFile
+)
+router.post(
+    '/find-duplicates',
     validateFilePath,
     ListFunctions.findDuplicatesInsideAFile
 )

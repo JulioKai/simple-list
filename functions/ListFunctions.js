@@ -5,6 +5,18 @@ const constructFileObjects = require('./utils/constructFileObjects')
 const getFileArray = require('./utils/getFileArray')
 const findDuplicates = require('./findDuplicatesLevenshtein')
 
+exports.getList = async (req, res) => {
+    try {
+        const { file } = req.params
+        const filePath = getPath(file)
+        const fileArray = await getFileArray(filePath)
+        res.status(200).json({ success: true, data: fileArray })
+    } catch (error) {
+        console.log(error)
+        res.status(500).json({ success: false, message: 'An error occurred' })
+    }
+}
+
 exports.updateList = async (req, res) => {
     const { file, new_values } = req.body
     const filePath = getPath(file)
@@ -42,6 +54,7 @@ exports.findDuplicatesInsideAFile = async (req, res) => {
         const duplicates = findDuplicates(fileArray, 0.6)
         res.status(200).json({
             success: true,
+            cases: Object.keys(duplicates).length,
             data:
                 Object.keys(duplicates).length > 0
                     ? duplicates
