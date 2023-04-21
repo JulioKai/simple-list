@@ -1,0 +1,22 @@
+const findDuplicates = (array, commonWords = []) => {
+  const searchedWords = new Set();
+  const duplicates = {};
+
+  array.forEach((string) => {
+    const words = string
+      .toLowerCase()
+      .split(' ')
+      .filter((word) => !commonWords.includes(word));
+
+    words.forEach((word) => {
+      if (searchedWords.has(word)) {
+        duplicates[word].push(string);
+      } else {
+        searchedWords.add(word);
+        duplicates[word] = [string];
+      }
+    });
+  });
+
+  return duplicates;
+};
