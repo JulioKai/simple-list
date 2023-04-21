@@ -4,6 +4,7 @@ const updateFile = require('./utils/updateFile')
 const constructFileObjects = require('./utils/constructFileObjects')
 const getFileArray = require('./utils/getFileArray')
 const findDuplicates = require('./findDuplicatesLevenshtein')
+const removeFalsePositives = require('./removeFalsePositives')
 
 exports.getList = async (req, res) => {
     try {
@@ -52,12 +53,16 @@ exports.findDuplicatesInsideAFile = async (req, res) => {
         const filePath = getPath(file)
         const fileArray = await getFileArray(filePath)
         const duplicates = findDuplicates(fileArray, 0.6)
+        const removePreviousFalsePositives = removeFalsePositives(
+            duplicates,
+            file
+        )
         res.status(200).json({
             success: true,
-            cases: Object.keys(duplicates).length,
+            cases: Object.keys(removePreviousFalsePositives).length,
             data:
-                Object.keys(duplicates).length > 0
-                    ? duplicates
+                Object.keys(removePreviousFalsePositives).length > 0
+                    ? removePreviousFalsePositives
                     : 'there are no duplicates',
         })
     } catch (error) {
