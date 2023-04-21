@@ -39,7 +39,7 @@ exports.findDuplicatesInsideAFile = async (req, res) => {
         const { file } = req.body
         const filePath = getPath(file)
         const fileArray = await getFileArray(filePath)
-        const duplicates = findDuplicates(fileArray)
+        const duplicates = findDuplicates(fileArray, 0.6)
         res.status(200).json({
             success: true,
             data:
