@@ -1,23 +1,33 @@
 const getPath = require('./utils/getPath')
-const constructFileObjects = require('./utils/constructFileObjects')
 const constructObjects = require('./utils/construcObjects')
-const createUniqueArray = require('./utils/createUniqueArray')
-const formatList = require('./utils/formatList')
-const writeFile = require('./utils/writeFile')
+const updateFile = require('./utils/updateFile')
+const constructFileObjects = require('./utils/constructFileObjects')
 
 exports.updateList = async (req, res) => {
-  const { file } = req.body
-  const filePath = getPath(file)
-  try {
-    const fileObjects = await constructFileObjects(filePath)
-    const newObjects= constructObjects(req.body.new_values)
-    const combinedObjects = createUniqueArray(fileObjects, newObjects)
-    const newFileContent = formatList(combinedObjects)
-    const response = await writeFile(filePath, newFileContent)
-    res.status(200).json({sucess: true, data: response})
-  } catch (error) {
-    res.status(500).json({ success: false, message: 'An error occurred' })
-  }
+    const { file, new_values } = req.body
+    const filePath = getPath(file)
+    try {
+        const response = await updateFile(
+            filePath,
+            constructObjects(new_values)
+        )
+        res.status(200).json({ success: true, data: response })
+    } catch (error) {
+        console.log(error)
+        res.status(500).json({ success: false, message: 'An error occurred' })
+    }
 }
 
-// TODO: intake file so I don't need to send the array, with the same name in it's own folder and 
+exports.updateListFromFile = async (req, res) => {
+    const { file } = req.body
+    const filePath = getPath(file)
+    const inputFilePath = getPath(file, 'input')
+    try {
+        const newFileObjects = await constructFileObjects(inputFilePath)
+        const response = await updateFile(filePath, newFileObjects)
+        res.status(200).json({ success: true, data: response })
+    } catch (error) {
+        console.log(error)
+        res.status(500).json({ success: false, message: 'An error occurred' })
+    }
+}

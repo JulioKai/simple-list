@@ -1,17 +1,16 @@
-
 const readFile = require('./readFile')
-const normalize = require ('./normalize')
+const normalize = require('./normalize')
 const constructObjects = require('./construcObjects')
 
 const constructFileObjects = async (filePath) => {
-  try {
-    const fileContents = await readFile(filePath)
-    const fileData = fileContents.toString().split('\n')
-    const fileObject = constructObjects(fileData)
-    return fileObject
-  } catch (error) {
-    throw error
-  }
+    try {
+        const fileContents = await readFile(filePath)
+        const fileData = fileContents.toString().split('\n')
+        const fileObject = constructObjects(fileData)
+        return fileObject
+    } catch (error) {
+        throw error
+    }
 }
 
 module.exports = constructFileObjects

@@ -9,7 +9,6 @@ app.use(express.urlencoded({ extended: true }))
 
 app.use('/v1', router)
 
-
-app.listen(8000, ()=> {
-  console.log('server running at port 8000')
+app.listen(8000, () => {
+    console.log('server running at port 8000')
 })
