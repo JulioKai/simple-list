@@ -1,16 +1,11 @@
 const getListOfFiles = require('../functions/utils/getListOfFiles')
 
 const validateFilePath = async (req, res, next) => {
-    let file
-    if (req.body.file) {
-        file = req.body.file
-    } else {
-        file = req.params.file
-    }
+    const file = req.body.file || req.params.file
     try {
         const currentFiles = await getListOfFiles()
         if (currentFiles.includes(file)) {
-            next()
+            return next()
         } else {
             res.status(404).json({
                 success: false,
