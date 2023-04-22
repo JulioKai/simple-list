@@ -6,12 +6,11 @@ const validateFilePath = async (req, res, next) => {
         const currentFiles = await getListOfFiles()
         if (currentFiles.includes(file)) {
             return next()
-        } else {
-            res.status(404).json({
-                success: false,
-                message: 'The requested file does not exist',
-            })
         }
+        res.status(404).json({
+            success: false,
+            message: 'The requested file does not exist',
+        })
     } catch (error) {
         console.error(error)
         res.status(500).json({
