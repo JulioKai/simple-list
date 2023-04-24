@@ -1,5 +1,6 @@
 
 (ergodic and new weird literature in general)
+A Burglar's Guide to the City
 A Casual Revolution: Reinventing Video Games and Their Players
 A Clash of Kings (A Song of Ice and Fire)
 A Dance with Dragons (A Song of Ice and Fire)
@@ -11,6 +12,7 @@ A Time to Kill
 Acceptance (Southern Reach)
 All Quiet on the Western Front
 Almas en Juego
+Amazon Unbound: Jeff Bezos and the Invention of a Global Empire
 Amusing Ourselves to Death: Public Discourse in the Age of Show Business
 And Another Thing... (The Hitchhiker's Guide to the Galaxy)
 Annihilation (Southern Reach)
@@ -20,9 +22,11 @@ Ask Iwata: Words of Wisdom from Satoru Iwata, Nintendo's Legendary CEO
 Astrophysics for People in a Hurry
 At the Mountains of Madness
 Authority (Southern Reach)
+Being and Time
 Brave New World
 Chapterhouse Dune (Dune)
 Children of Dune (Dune)
+Children of Time
 Chris Crawford on Game Design
 Clockwork Game Design
 Console Wars
@@ -32,18 +36,17 @@ Cruel Seduction (Dark Olympus)
 Culpa Mía (Culpables)
 Culpa Nuestra (Culpables)
 Culpa Tuya (Culpables)
+Dark Mirror: Edward Snowden and the American Surveillance State
 Dark Restraint (Dark Olympus)
 Death of a Salesman
 Differently Morphous (DEDA Files)
+Digital Cities (2009)
 Do Androids Dream of Electric Sheep?
 Dragon wing (The Death Gate Cycle)
 Dune (Dune)
 Dune Messiah (Dune)
 El guión. Story: Sustancia, estructura, estilo y principios de la escritura de guiones
-The Initiate (The Master)
 El muro digital: Acciones disruptivas para impulsar a México
-The Outcast (The Master)
-The Master (The Master)
 Electric Idol (Dark Olympus)
 Elven Starbound (The Death Gate Cycle)
 Embed with Games: A Year on the Couch with Game Developers
@@ -70,18 +73,22 @@ House of Leaves
 How I Became a Famous Novelist
 Hyperion (Hyperion)
 I Have No Mouth, and I Must Scream
+If on a winter's night a traveler
 Into the Labyrinth (The Death Gate Cycle)
+Kaleidoscope
 La Espada de Cristal (Tormenta de Guerra)
 La jaula del Rey(Tormenta de Guerra)
 La Reina Roja (Tormenta de Guerra)
 Las aventuras del señor Higgins
 Libertad Dirigida: una Gramatica del Análisis y Diseño de Videojuegos
 Life, the Universe and Everything (The Hitchhiker's Guide to the Galaxy)
+Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination
 Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture
 Midnight Mass
 Midnight Ruin (Dark Olympus)
 Mind Painter
 Mostly Harmless (The Hitchhiker's Guide to the Galaxy)
+Nausea (Sartre)
 Neon Gods (Dark Olympus)
 Nete mo Samete mo (Asako 1 & 2, Soñar o Despertar)
 Neuromancer
@@ -91,14 +98,18 @@ No Longer Human
 Norse Mythology
 Northern Lights (His Dark Matterials)
 Origin
+Pale Fire
 Paper Towns
 People of Paper
+Permanent Record
 Persuasive Games: The Expressive Power of Videogames
 Piranesi
 Play Matters
+Poems for the Lost Because I'm Lost Too
 Point of Impact
 Power-Up: How Japanese Video Games Gave the World an Extra Life
 Prelude to Foundation (Foundation)
+Press Reset: Ruin and Recovery in the Video Game Industry
 Radiant Sin (Dark Olympus)
 Reality Is Broken: Why Games Make Us Better and How They Can Change the World
 Replay: The History of Video Games
@@ -115,11 +126,16 @@ Steal Like an Artist
 Story of Your Life
 Strange the Dreamer 
 The Amber Spyglass (His Dark Matterials)
+The Army of Nothing (Code Lyoko)
 The Art of Failure: An Essay on the Pain of Playing Video Games
+The Bald Soprano
+The Blade Itself (The First Law)
+The Brothers Karamazov
 The Causal Angel (The Quantum Thief)
 The Client
 The Cyberiad
 The Dark Brain of Piranesi: And Other Essays
+The Dresden Files
 The Fall of Hyperion (Hyperion)
 The Film
 The Fourth Rome
@@ -127,6 +143,7 @@ The Fractal Prince (The Quantum Thief)
 The Hand of Chaos (The Death Gate Cycle)
 The Hero with a Thousand Faces
 The Hitchhiker's Guide to the Galaxy (The Hitchhiker's Guide to the Galaxy)
+The Initiate (The Master)
 The Inquisitor: A Novel
 The Invention of Science: A New History of the Scientific Revolution
 The Invention of Tradition
@@ -136,56 +153,39 @@ The Library of Babel
 The Lord of the rings (The Lord of the rings)
 The Man Who Was Thursday
 The Martian
+The Master (The Master)
 The Mitchells vs. the Machines
 The Music of the Spheres: Music, Science, and the Natural Order of the Universe
 The Name of the Wind (The Kingkiller Chronicle)
+The Nameless City (Code Lyoko)
+The Outcast (The Master)
 The Paladin of the Night (Rose of the Prophet)
 The Plague (Camus)
 The Prophet of Akhran (Rose of the Prophet)
 The Quantum Thief (The Quantum Thief)
 The Restaurant at the End of the Universe (The Hitchhiker's Guide to the Galaxy)
 The Return of the King (The Lord of the rings)
+The Return of the Phoenix (Code Lyoko)
 The Rise of Endymion (Hyperion)
 The Road (Cormac McCarthy)
 The Seventh Gate (The Death Gate Cycle)
+The Sickness unto Death
 The Subtle Knife (His Dark Matterials)
 The Talos Principle
 The Throne of Fire
 The Thursday Murder Club
 The Transall Saga
 The Two towers (The Lord of the rings)
+The Underground Castle (Code Lyoko)
 The Will of the Wanderer (Rose of the Prophet)
 The Wise Man's Fear (The Kingkiller Chronicle)
+The World as Will and Representation
 Theory of Fun for Game Design
 To Build a Fire
 Tomorrow, and Tomorrow, and Tomorrow
 Tormenta de Guerra (Tormenta de Guerra)
 Unreasonable Hours
+Waiting for Godot
 Wicked Beauty (Dark Olympus)
 Will Destroy the Galaxy for Cash (Jacques McKeown)
 Will Save the Galaxy for Food (Jacques McKeown)
-Poems for the Lost Because I'm Lost Too
-The Underground Castle (Code Lyoko)
-The Nameless City (Code Lyoko)
-The Return of the Phoenix (Code Lyoko)
-The Army of Nothing (Code Lyoko)
-Press Reset: Ruin and Recovery in the Video Game Industry
-Permanent Record
-Dark Mirror: Edward Snowden and the American Surveillance State
-The Dresden Files
-A Burglar's Guide to the City
-Digital Cities (2009)
-Kaleidoscope
-Children of Time
-The Brothers Karamazov
-The Sickness unto Death
-The World as Will and Representation
-Being and Time
-Nausea (Sartre)
-Waiting for Godot
-The Bald Soprano
-The Blade Itself (The First Law)
-If on a winter's night a traveler
-Pale Fire
-Like, Comment, Subscribe: Inside YouTube's Chaotic Rise to World Domination
-Amazon Unbound: Jeff Bezos and the Invention of a Global Empire

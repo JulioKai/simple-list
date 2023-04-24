@@ -1,3 +1,4 @@
+
 1000xRESIST
 11-11 Memories Retold
 13 Sentinels: Aegis Rim
@@ -6,18 +7,23 @@
 30 Birds
 60 Seconds!
 9 Years of Shadows
+[Chilla's Art] Night Delivery
 [Chilla's Art] The Closing Shift
 A Case of Distrust
 A Dance of Fire and Ice
 A Hand With Many Fingers
 A Hat in Time
+A Highland Song
 A Juggler's Tale
 A Little to the Left
+A Memoir Blue
 A Musical Story
 A Plague Tale: Innocence
 A Plague Tale: Requiem
 A Short Hike
+A Space for the Unbound
 A Tale of Paper: Refolded
+A Tavern for Tea
 A Walk With Yiayia
 A Way Out
 Aaero
@@ -32,6 +38,7 @@ AER
 Aerial_Knight's Never Yield
 Aeterna Noctis
 Affordable Space Adventures
+After Us
 Afterlove EP
 Afterparty
 Against All Odds
@@ -40,9 +47,11 @@ Ageless
 Agent 64: Spies Never Die
 AI Dungeon
 AI: The Somnium Files
+Aka
 Alan Wake
 Alan Wake 2
 Alba: A Wildlife Adventure
+Alder Choke
 Aliisha:The Oblivion of Twin Goddesses
 Almost There: The Platformer
 Alone in the Dark
@@ -59,6 +68,7 @@ Anima: Song From The Abyss
 ANIMAL WELL
 ANNO: Mutationem
 Another Crab's Treasure
+Antichamber
 Anuchard
 Ape Out
 Aperture Desk Job
@@ -66,6 +76,7 @@ Aquanox Deep Descent
 Arboria
 Arcade Paradise
 Archvale
+Arise: A Simple Story
 Armored Core
 Armored Core 2
 Armored Core 2: Another Age
@@ -104,6 +115,7 @@ ASTRAL CHAIN
 Astro Duel Deluxe
 ASTRONEER
 AT SUNDOWN: Shots in the Dark
+Atama
 Atelier Firis: The Alchemist and the Mysterious Journey
 Atelier Lulua: The Scion of Arland
 Atelier Lydie & Suelle: The Alchemists and the Mysterious Paintings
@@ -123,12 +135,15 @@ Baby Storm
 Babylon's Fall
 Backbone
 Backfirewall_
+Banishers: Ghosts of New Eden
 BANZAI ROYALE
 Bard Harder!
 Bartlow's Dread Machine
 Bastion
+Baten Kaitos I & II HD Remaster
 Batora: Lost Haven
 BattleBlock Theater
+Bayonetta Origins: Cereza and the Lost Demon
 Beacon Pines
 Bear and Breakfast
 Beasts of Maravilla Island
@@ -137,6 +152,7 @@ Before Your Eyes
 Behind the Frame: The Finest Scenery
 BELOW
 Beneath Oresa
+Berserk Boy 
 BEWARE
 BEWARE (Ondrej_Svadlena)
 Beyond a Steel Sky
@@ -146,6 +162,7 @@ Big Crown: Showdown
 Billion Road
 Biomutant
 BioShock: The Collection
+Birth (Madison Karrh)
 BIT.TRIP: RUNNER
 Biwar Legend
 Black Book
@@ -154,8 +171,10 @@ Black Mesa (7)
 Black Mirror
 Black Mirror II: Reigning Evil
 Black Mirror III: Final Fear
+BLACKTAIL
 Blanc
 Blasphemous
+BLAST-AXIS
 Bleak Faith: Forsaken
 Blightbound
 Blind
@@ -170,12 +189,14 @@ Bomber Crew
 Bonfire Peaks
 Book of Travels
 Boomerang X
+Boundary
 Bounty Battle
 BoxBoxBoy!
 BoxBoy!
 Boxboy! + Boxgirl!
 Boyfriend Dungeon
 BPM: BULLETS PER MINUTE
+Bramble: The Mountain King
 Bravely Default
 Bravely Default II
 Bravely Default: Brilliant Lights
@@ -187,6 +208,7 @@ Breath of Fire
 Breathedge
 Bridge Constructor Portal
 Bright Memory
+Brotato
 Brunch Club
 Bubblegum Galaxy
 Buddy Simulator 1984
@@ -195,11 +217,13 @@ Bugs Bunny: Lost in Time
 Bugsnax
 Bus Simulator 21
 BYE-BYE BOXBOY!
+Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda
 Calico
 Call of the Sea
 Captain Spirit
 Car Driving School Simulator
 Card Shark
+Cardboard Town
 Carebotz
 Carrion
 Carto
@@ -212,17 +236,21 @@ Cave Story
 Celeste
 Cellular Harvest
 Century: Age of Ashes
+Chained Echoes
 Chair Is Videogame (christophfrey)
 Changed
+Chants of Sennaar
 Chariot
 Chicken Journey
 Chicory: A Colorful Tale
 Child of Light
 Children of Morta
+Children of Silentown
 Chinatown Detective Agency
 Chip's Challenge
 Chocobo GP
 Chorus
+Chronophoto
 Chronos Before the Ashes
 Cibele
 Circuit Superstars
@@ -255,6 +283,8 @@ Crash Bash
 Crawl
 Crazy Wheels
 Creature in the Well
+Crime Boss: Rockay City
+Crime O'Clock
 Cris Tales
 Crisis Core -Final Fantasy VII- Reunion
 Critter Crops
@@ -265,10 +295,12 @@ Cruis'n Blast
 Crumble
 Crying Suns
 Crypt of the Necrodancer
+Ctrl Alt Ego
 Cult of the Lamb
 Cultist Simulator
 Cuphead
 Curse of the Dead Gods
+Curse of the Sea Rats
 Cursed to Golf
 CUSTOM ORDER MAID 3D2 It's a Night Magic (?)
 Cyber Hook
@@ -300,11 +332,13 @@ Death's Door
 Death's Gambit: Afterlife
 DEATHLOOP
 DEATHRUN TV
+DECAPOLICE
 Deceive Inc.
 Deep Rock Galactic
 Deepest Sword
 Definitely Not Fried Chicken
 Deliver Us Mars
+Deliver Us The Moon
 DELTARUNE
 Democratic Socialism Simulator
 Descenders
@@ -332,6 +366,7 @@ Disgaea 4
 Disgaea 5
 Disgaea 6
 Dishonored
+Disney's Tarzan
 Distrust: Polar Survival
 Divinity: Original Sin
 DLC Simulator
@@ -344,11 +379,14 @@ Don't Shit Your Pants
 Don't Touch this Button!
 Donkey Kong Country: Tropical Freeze
 Donut County
+Donut Dodo
 DOOM (2016)
 DOOM Eternal
+Dordogne
 Dorfromantik
 Downfall
 Dr. Langeskov, The Tiger, and The Terribly Cursed Emerald
+Dragon Age: Inquisition
 Dragon's Dogma
 Dragon's Dogma 2
 Dragon's Lair
@@ -356,20 +394,28 @@ Drake Hollow
 Dream Daddy: A Dad Dating Simulator
 Dreamland Confectionery
 Dreamscaper
+DREDGE
+Driftwood (Stoked Sloth Interactive)
 Duck Game
 Due Process
 Dujanah
 Dune: Spice Wars
+Dungeon Munchies
 Duskers
+Dust & Neon
 Dust: An Elysian Tail
 Dyson Sphere Program
 Earth Defense Force: World Brothers
+Earthblade
 Eastward
 Echo Generation
 Echochrome
 Edge Of Eternity
+Einhänder
 Eitr
+El Paso, Elsewhere
 ELDEN RING
+Elderand
 Eldest Souls
 Elite Dangerous: Odyssey
 Elsie
@@ -383,6 +429,7 @@ Endling - Extinction is Forever
 enter the gungeon
 Entiérrame, mi amor
 Entwined
+Epistory - Typing Chronicles
 Ereban: Shadow Legacy
 Erica
 Escape Academy
@@ -391,12 +438,14 @@ Esothe
 Espgaluda II
 Essays on Empathy
 Esse Proxy
+Estencel
 Eternal Darkness: Sanity's Requiem
 Eternal Radiance
 Eternal Return
 Eternights
 Etherborn
 Etrian Odyssey
+Europa
 EVE Academy
 Evergate
 Everhood
@@ -406,6 +455,7 @@ Everwild
 Everything
 Everything is going to be OK
 Evil Genius 2: World Domination
+Evil West
 Exo One
 EXPOSURE (christophfrey)
 ExtraGalactica
@@ -419,6 +469,7 @@ Fallout 4
 Famicom Detective Club: The Girl Who Stands Behind
 Famicom Detective Club: The Missing Heir
 FANTASIAN
+FANTASY LIFE i: The Girl Who Steals Time
 FAR: Changing Tides
 FAR: Lone Sails
 FATAL FRAME / PROJECT ZERO: Mask of the Lunar Eclipse
@@ -430,6 +481,7 @@ FEZ
 Fictorum
 Fight Crab
 Fights in Tight Spaces
+Filament
 Fimbul
 Final Fantasy VII Ever Crisis
 Final Fantasy VII Rebirth
@@ -446,6 +498,7 @@ Firewatch
 First Class Trouble
 Fish Out of Water
 Fisti-Fluffs
+Five Dates
 Flan
 Flashback 2
 Flat Eye
@@ -479,6 +532,7 @@ Frog Detective 2: The Case of the Invisible Wizard
 Frog Detective 3: Corruption at Cowboy County
 Frog Fractions
 From Dust
+From Space
 Frostpunk
 Frozen Flame
 Frozen Synapse
@@ -504,6 +558,7 @@ Getting Over It with Bennett Foddy
 Ghost 1.0
 Ghost of Tsushima
 Ghost Song
+Ghost Trick: Phantom Detective
 Ghostrunner
 Ghostrunner 2
 Ghostwire: Tokyo
@@ -544,11 +599,13 @@ GREEN The Life Algorithm
 Grim Fandango
 GRIME
 Grimm: Dark Legacy
+Gripper
 Gris
 Grounded
 Grow Up
 GTTOD: Get To The Orange Door
 Guinea Pig Parkour
+Guts And Goals
 GYLT
 Hacknet
 Hacknet - Labyrinths
@@ -567,6 +624,7 @@ Hamster on Rails
 Happy Game (Amanita Design)
 Happy's Humble Burger Farm
 Hardspace: Shipbreaker
+Harmony: The Fall of Reverie
 Harold Halibut
 Haru to Shura
 HARVESTELLA
@@ -575,15 +633,20 @@ Haunted Chocolatier
 Have a Nice Death
 Haven
 Hazel Sky
+Heartworm
 Heaven's Vault
 Heavenly Bodies
+Hell is Others
 Hellblade: Senua's Sacrifice
 Hello Neighbor
 Hello Neighbor 2
+Henry Halfhead
 Her Story
+Hercules (1997)
 Here Comes Niko!
 Hexcells
 Hexologic
+Hi-Fi Rush
 Hidden Deep
 Hidden in Plain Sight
 High on Life
@@ -617,8 +680,11 @@ How to Say Goodbye
 Hue (Curve Games)
 Human Resource Machine
 Human: Fall Flat
+Humanity (2023)
 Hunt 'n Sneak
 Hunt: Showdown
+HYPER DEMON
+Hyper Light Breaker
 Hyper Light Drifter
 Hyperbolica
 HYPERCHARGE: Unboxed
@@ -631,6 +697,7 @@ I Am Fish
 I Am Future: Cozy Apocalypse Survival
 I Expect You To Die
 I Expect You To Die 2
+I Was a Teenage Exocolonist
 Ibb & Obb
 Iconoclasts
 Id – Invaded
@@ -640,6 +707,7 @@ Ikenfell
 Immortal Soul: Black Survival
 IMMORTALITY
 Immortals Fenyx Rising
+Immortals of Aveum
 In Other Waters
 In Sound Mind
 Indivisible (505 Games)
@@ -654,6 +722,7 @@ Inscryption
 INSIDE
 Instruments of Destruction
 Insurmountable
+Interior Worlds
 Into the Breach
 Ironsmith Medieval Simulator
 ISLANDERS
@@ -664,17 +733,21 @@ Jackbox Party Pack
 JackQuest: The Tale of The Sword
 Jalopy
 Jazzpunk
+JellyCar Worlds
 Jenny LeClue - Detectivu
 JETT: The Far Shore
 John Wick Hex
 Journey
+Journey to Foundation
 Journey to the Savage Planet
+Judas
 Judgment
 Just Cause
 Just Cause 4
 KAMI (State of Play)
 Katamari Damacy Reroll
 Katana ZERO
+Katawa Shoujo
 Kaze and the Wild Masks
 Kena: Bridge of Spirits
 Kentucky Route Zero
@@ -698,6 +771,7 @@ Klang 2
 Knights And Bikes
 Kokopa's Atlas
 Kosmokrats
+Kredolis
 KUUKIYOMI 2: Consider It
 KUUKIYOMI 3: Consider It
 KUUKIYOMI: Consider It
@@ -705,6 +779,7 @@ Kyle is Famous: Complete Edition
 L.A. Noire
 Lair of the Clockwork God
 Lake
+Lakeburg Legacies
 Las Aventuras de Chocu
 Laser League: World Arena
 Last Day of June
@@ -725,6 +800,7 @@ Lethal League
 Letter to a Friend (christophfrey)
 Lies of P
 Lieve Oma
+Life by You
 Life is Strange
 Life Slide (Dreamteck)
 Lifeless Moon
@@ -742,6 +818,7 @@ Lisa: The Painful
 Little Bear Chef
 Little Devil Inside
 Little Inferno
+Little Kitty, Big City
 Little Nightmares
 Little Nightmares II
 Little Noah: Scion of Paradise
@@ -749,9 +826,12 @@ Little Reaper
 Little Witch in the Woods
 Little Witch Nobeta
 Loco Motive
+Lone Echo
+LONE RUIN
 Loop Hero
 Loopmancer
 Loot River
+Lords of the Fallen
 Lorelei and the Laser Eyes
 Lost Ark
 Lost At Sea
@@ -775,28 +855,35 @@ Lume (State of Play)
 Lumines
 Lumino City (State of Play)
 Lumione
+Lunistice
 Lurk
 Lust from Beyond
 Lydia
 Mable & The Wood
 Mad Father
 Maddening Euphoria
+Made in Abyss: Binary Star Falling into Darkness
+Made in Ohio
 Mages of Mystralia Archmage
 Magicka
 Magicka 2
 Mail Mole + 'Xpress Deliveries
+Mandragora
 Maneater
 Manifold Garden
 MapleStory
 MapleStory 2
 Maquette
+Marble it Up!
 Mario Golf
 Mario Golf: Super Rush
 Mario Kart 8 Deluxe
 Mario Party Superstars
 Mario Tennis Aces
+Mars First Logistics
 Martha Is Dead
 Marvel's Spider-Man
+Mask of the Rose
 Mass Effect Legendary Edition
 Master Detective Archives: RAIN CODE
 Medieval Shopkeeper Simulator
@@ -823,11 +910,13 @@ MICROVANIA (BluebsTopCat)
 Midnight Deluxe
 Midnight Fight Express
 Mika and the Witch's Mountain
+MiLE HiGH TAXi
 Militsioner
 Mina the Hollower
 Mind Scanners
 Minecraft
 Minecraft Legends
+Mineko's Night Market
 Mini Healer
 Ministry of Broadcast
 Minit
@@ -843,7 +932,9 @@ Monster Hunter Generations Ultimate
 Monster Hunter Rise: Sunbreak
 Monster Hunter World: Iceborne
 Monster Train
+Monsters, Inc. Scream Team
 Montaro
+Moonbreaker
 Moonglow Bay
 Moonlighter
 Moons of Madness
@@ -915,6 +1006,7 @@ No Straight Roads: Encore
 No Time to Explain
 Nobody Saves the World
 Noita
+Norco
 Northgard
 Not For Broadcast
 NUTS (Noodlecake)
@@ -929,6 +1021,7 @@ Oddworld: Soulstorm
 Okami
 OkunoKA Madness
 Olija
+Omega Strikers
 Omensight
 Omno
 Omori
@@ -940,8 +1033,10 @@ One Lonely Outpost
 One Step From Eden
 One Strike
 OneShot (Degica)
+ONI: Road to be the Mightiest Oni
 ONINAKI
 Ooblets
+Open Roads
 Operation Abyss: New Tokyo Legacy
 Operation: Tango
 Opus Magnum
@@ -953,8 +1048,10 @@ Ori and the will of the wisp
 Orwell: Ignorance is Strength
 OSK
 Oure
+Outer Space: War Gears
 Outer Wilds
 Outward
+Overboard!
 Overcooked! All You Can Eat
 Overland
 Owlboy
@@ -963,7 +1060,9 @@ OXENFREE II: Lost Signals
 PAC-MAN WORLD Re-PAC
 Pacific Drive
 Palworld
+Pan'orama
 Pankapu
+Pants Quest
 Paper Animal RPG
 Paper Mario
 Paper Mario: The Origami King
@@ -976,13 +1075,16 @@ Paranoia: Happiness is Mandatory
 Paratopic
 Part Time UFO
 Party Animals
+Party Fowl
 Party Panic
 Passpartout 2 The Lost Artist
 Passpartout: The Starving Artist
 Pathologic 2
 Pathologic Classic HD
+Patrick's Parabox
 Penko Park
 Pentiment
+Pepper Grinder
 Per Aspera
 Perception (The Deep End Games)
 Perfect Vermin
@@ -997,6 +1099,7 @@ Pikmin 2
 Pikmin 3
 Pikmin 4
 Pikuniku
+Pineapple on pizza
 Pinstripe
 Pistol Whip
 Pizza Parking
@@ -1005,6 +1108,7 @@ Planet of Lana
 Playism
 Please, Touch The Artwork
 Poinpy
+Point of Mew
 Pokémon (series)
 Pokémon Snap
 Poly Bridge
@@ -1013,10 +1117,12 @@ Portal
 Portal 2
 Potion Craft: Alchemist Simulator
 Potion Permit
+Potionomics
 PowerWash Simulator
 Praey for the Gods
 Pragmata
 Pro Gymnast Simulator
+Professor Layton and the New World of Steam
 Progress Quest
 Project Awakening
 Project Wingman
@@ -1025,6 +1131,7 @@ PROTEST (christophfrey)
 Pupperazzi
 Puzzles for Clef
 Pyre
+Q REMASTERED
 Q.U.B.E. 2
 Q.U.B.E: Director's Cut
 qomp
@@ -1035,7 +1142,10 @@ Ragnarok Online
 Railbound
 Rain World
 Raji: An Ancient Epic
+Ravenbound
 Ravenlok
+Ravenswatch
+Re:CREATORS
 Re:Turn - One Way Trip
 Realm Grinder
 Rebel Galaxy Outlaw
@@ -1051,6 +1161,7 @@ Resogun
 Retro Machina
 Return of the Obra Dinn
 Returnal
+Revita
 Revue Starlight Re LIVE
 Rez HD
 Rez Infinite
@@ -1063,20 +1174,25 @@ Risk of Rain 2
 Riven: The Sequel to MYST
 Road 96
 Road 96: Mile 0
+Roadwarden
 Rocket League
 Rollerdrome
 Rooftop Cop
 Roombo: First Blood
+Root Film
 Rose and Locket
+ROUTINE
 RPG Time: The Legend of Wright
 Rune Factory 4 Special
 Rune Factory 5
 Rune II
+Rusted Moss
 RWBY: Grimm Eclipse
 Rytmos
 S.T.A.L.K.E.R. 2: Heart of Chornobyl
 Sable (Raw Fury)
 SacriFire
+Sail Forth
 Salary Man Escape
 Salt and Sanctuary
 Sam & Max Save the World
@@ -1084,8 +1200,10 @@ Samurai Jack: Battle Through Time
 SANABI
 Sands of Aura
 Satellite Reign
+Saturnalia
 Sayonara Wild Hearts
 SCARLET NEXUS
+Scars Above
 Scathe
 SCHiM
 Scoundrel
@@ -1105,10 +1223,12 @@ Senua's Saga: Hellblade II
 Sephonie
 Serious Sam: Next Encounter
 Seven (IMGN.PRO)
+Severed Steel
 Shadow Bug
 Shadow Complex
 Shadow of the Colossus
 Shadowrun Trilogy
+Shadows of Doubt
 Shady Knight
 Shantae and the Seven Sirens
 Shark Dating Simulator XL+
@@ -1117,11 +1237,13 @@ She Dreams Elsewhere
 She Remembered Caterpillars
 ShellShock
 Sherlock Holmes The Awakened
+Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey
 SHINSEKAI Into the Depths
 Ship of Fools
 Shot in the Dark (Possum House Games)
 Shotgun King: The Final Checkmate
 Shovel Knight
+Shovel Knight Dig
 Sifu
 SIGNALIS
 Silent Line: Armored Core
@@ -1133,30 +1255,37 @@ Skate Story
 SkateBIRD
 Skul: The Hero Slayer
 Sky Noon
+Sky Rogue
 Sky Tale
 Sky: Children of the Light
 Slay the Spire
-Slime Ranche
-Slime Ranche 2
+Slice & Dice
+Slime Rancher
+Slime Rancher 2
 Slipways
 Slitterhead
 Smalland: Survive the Wilds
 Smoke and Sacrifice
 Snacko (Armor Games Studios)
 Snakeybus
+Snatcher
 SNKRX
 Snufkin: Melody of Moominvalley
+Sokfest
 Solar Ash
 SOMA
+Somerholm
 Somerville
 Sometimes Always Monsters
 Song of Iron
 Songbird Symphony
 Songbringer
+Songs of Glimmerwick
 Sonic Frontiers
 Sons of the Forest
 Sorcery! Parts 1 and 2
 Soulstice
+Soulstone Survivors
 Source of Madness
 South of the Circle
 South Park: The Fracturated But Whole
@@ -1165,8 +1294,10 @@ Space Scavenge
 Sparkler (christophfrey)
 SpeedRunners
 Spellbreaker
+SpellMaster: The Saga
 Spelunky
 Spelunky 2
+SpiderHeck
 Spirit of the North
 Spiritfall
 Spiritfarer
@@ -1176,8 +1307,10 @@ SpongeBob SquarePants: Battle for Bikini Bottom
 SpongeBob SquarePants: The Cosmic Shake
 SPOOKWARE
 Spooky's Jump Scare Mansion
+SPRAWL
 SpyParty
 Squirrel with a Gun
+Star Ocean The Divine Force
 Star Renegades
 Star Stuff
 Star Wars Eclipse
@@ -1186,7 +1319,9 @@ Star Wars: Episode I Racer
 Star Wars: Knights of the Old Republic
 Star Wars: Squadrons
 Starbound
+Starstruck Vagabond
 STARWHAL
+Steelrising
 Stellar Blade
 Stellaris
 Stephen's Sausage Roll
@@ -1194,10 +1329,14 @@ Stick It to the Stickman
 Stolen Realm
 Stories Untold
 STORY OF SEASONS: Pioneers of Olive Town
+Storyteller
 Stranded Deep
+Strange Horticulture
 Stray
 Stray Blade
+Stray Gods: The Roleplaying Musical
 Stray Souls
+Strayed Lights
 Submerged: Hidden Depths
 Subnautica
 Subnautica: Below Zero
@@ -1205,6 +1344,7 @@ Subsurface Circular
 Sundered: Eldritch Edition
 SUNLESS SEA
 Sunlight
+Super Adventure Hand
 Super Bunny Man
 Super Kirby Clash
 Super Mario 3D All-Stars
@@ -1222,7 +1362,9 @@ Super Rude Bear Resurrection
 Superfly
 SUPERHOT
 Superliminal
+Supplice
 Supraland
+Surmount
 Survival Driver
 Survived By
 Surviving Mars
@@ -1230,6 +1372,7 @@ Suzerain
 Sword With Sauce
 Swords 'n Magic and Stuff
 Swords and Soldiers 2 Shawarmageddon
+Synapse
 SYNDUALITY
 Synergy
 System Shock (2023)
@@ -1251,6 +1394,7 @@ Teeworlds
 Telepaint!
 Tell Me Why
 Telling Lies
+Ten Dates
 Tenderfoot Tactics
 Terra Nil
 Tesla vs Lovecraft
@@ -1266,8 +1410,11 @@ The Beginner's Guide
 The Black Mirror
 The Caligula Effect 2
 The Callisto Protocol
+The Case of the Golden Idol
+The Chant
 The Church in the Darkness
 The Company Man
+The Complex: Found Footage
 The Courier
 The Cub
 The Dark Pictures Anthology: House of Ashes on Steam
@@ -1276,8 +1423,11 @@ The Dark Pictures Anthology: Man of Medan
 The Day Before
 The Deadly Tower of Monsters
 The Dream Machine: Chapter 1 & 2
+The Drone Racing League Simulator
 The Dungeon of Naheulbeuk: The Amulet of Chaos
 The Entropy Centre
+The Eternal Cylinder
+The Excavation of Hob's Barrow
 The Falconeer
 The Fall
 The Fall Part 2: Unbound
@@ -1286,21 +1436,26 @@ The First Descendant
 The First Tree
 The Flame in the Flood
 The Flower Collectors
+The Foglands
 The Forgotten City
 The Gallery (Android devices)
 The Gardens Between
 The Good Life
 The Great Ace Attorney Chronicles
 The Greatest Penguin Heist of All Time
+The Grinch (Konami)
 The Gunk
 The Hunting God
 The Infectious Madness of Doctor Dekker
 The Invincible
 The Invisible Hand
 The Invisible Hours
+The Knight Witch
 The Last Campfire
 The Last Case of Benedict Fox
+The Last Clockwinder
 The Last Door
+The Last Hero of Nostalgaia
 The Last Night
 The Last of Us Part I
 The Last of Us Part II
@@ -1329,6 +1484,7 @@ The Magnificent Trufflepigs
 The Medium on Steam
 The Messenger
 The MISSING: JJ Macfield and the Island of Memories
+The Murder of Sonic the Hedgehog
 The Novelist
 The Outer Worlds
 The Outer Worlds 2
@@ -1336,7 +1492,9 @@ The Pale Beyond
 The Pathless
 The Pedestrian
 The Plucky Squire
+The Professional (Torfi)
 The Quarry
+The Quiet Man
 The Red Lantern
 The Samaritan Paradox
 The Sexy Brutale
@@ -1355,6 +1513,8 @@ The Swords of Ditto
 The Talos Principle
 The Tarnishing of Juxtia
 The Tender Cut
+The Typing of The Dead: Overkill
+The Unfinished Swan
 The Vale: Shadow of the Crown
 The Vanishing of Ethan Carter
 The Very Organized Thief
@@ -1365,6 +1525,7 @@ The Wind Road
 The Witcher 3: Wild Hunt
 The Witness
 The World Next Door
+The Wreck
 There Is No Game: Wrong Dimension
 There Is No Light
 There You Go
@@ -1396,18 +1557,23 @@ Toroa
 Total Party Kill (poki website)
 Totally Accurate Battle Simulator
 Totally Reliable Delivery Service
+Touch Type Tale
 Touhou Luna Nights
 Towefall Ascension
+Toy Story 2: Buzz Lightyear to the Rescue
 TrackMania Nations Forever
 Train Sim World 2
 Transistor
 Trek to Yomi
 Tribes of Midgard
 Tricky Towers
+Trifox
 Trine 4: The Nightmare Prince
+Trinity Fusion
 Trolley Problem, Inc.
 Tron: Identity
 Trouble in Terrorist Town
+Tunche
 TUNIC
 Turbo Dismount
 Turnip Boy Commits Tax Evasion
@@ -1446,12 +1612,14 @@ Vampire Survivors
 Vampire: The Masquerade – Swansong
 Vane
 Vanquish
+Venba
 Venineth
 VergeWorld
 Verlet Swing
 Vertigo
 Very Very Valet
 Victoria 3
+Viewfinder
 Viscera Cleanup Detail
 Voice of Cards: The Isle Dragon Roars
 Voidtrain
@@ -1474,14 +1642,18 @@ Wayward Strand
 We Are OFK
 We Happy Few
 We Love Katamari REROLL+ Royal Reverie
+We Stay Behind
 We Went Back
 We Were Here
 We Were Here Forever
 We Were Here Together
 We Were Here Too
 Weaving Tides
+Webbed
+Weird RPG (INDIECN)
 Weird West
 Well (christophfrey)
+West Hunt
 West of Dead
 Whale Eater
 What Lies in the Multiverse
@@ -1497,15 +1669,19 @@ Who's Lila?
 Wide Ocean Big Jacket
 Wildermyth
 Wildfire
+Wildfrost
 Will You Snail?
 Windjammers
 Windjammers 2
 Witchfire
 Wizard of Legend
 Wizard with a Gun
+Wobbledogs
+Wobbly Life
 Wolcen: Lords of Mayhem
 World of Demons
 World of Goo
+WORLD OF HORROR
 World's End Club
 Worms Armageddon
 Wreckoons
@@ -1531,185 +1707,3 @@ Yume Nikki
 Zengeon
 ZeroRanger
 Zone of the Enders
-The Excavation of Hob's Barrow
-The Eternal Cylinder
-Katawa Shoujo
-Slice & Dice
-Somerholm
-The Grinch (Konami)
-Norco
-Patrick's Parabox
-Donut Dodo
-Soulstone Survivors
-SpellMaster: The Saga
-Weird RPG (INDIECN)
-Starstruck Vagabond
-DREDGE
-Children of Silentown
-The Professional (Torfi)
-Roadwarden
-Made in Abyss: Binary Star Falling into Darkness
-Lunistice
-LONE RUIN
-Interior Worlds
-A Space for the Unbound
-Estencel
-One Hand Clapping
-Hi-Fi Rush
-SEASON: A letter to the future
-Shadows of Doubt
-Dragon Age: Inquisition
-Einhänder
-Dust & Neon
-Mars First Logistics
-Pan'orama
-Driftwood (Stoked Sloth Interactive)
-Super Adventure Hand
-Cardboard Town
-A Space for the Unbound
-The Quiet Man
-Marble it Up!
-Super Monkey Ball Banana Mania
-Trinity Fusion
-Outer Space: War Gears
-Ravenbound
-Sail Forth
-Elderand
-A Highland Song
-Mask of the Rose
-Open Roads
-ROUTINE
-Songs of Glimmerwick
-We Stay Behind
-Humanity (2023)
-Lakeburg Legacies
-Birth (Madison Karrh)
-Chronophoto
-West Hunt
-The Complex: Found Footage
-Scars Above
-Wobbly Life
-Lone Echo
-Boundary
-Hyper Light Breaker
-JellyCar Worlds
-Storyteller
-Lords of the Fallen
-Henry Halfhead
-Gripper
-The Murder of Sonic the Hedgehog
-Ravenswatch
-Q REMASTERED
-Tunche
-Supplice
-Sky Rogue
-Touch Type Tale
-Rusted Moss
-The Typing of The Dead: Overkill
-Happy Game (Amanita Design)
-Immortals of Aveum
-El Paso, Elsewhere
-Viewfinder
-Life by You
-Surmount
-Mineko's Night Market
-Stray Gods: The Roleplaying Musical
-Strayed Lights
-Wildfrost
-Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda
-Ctrl Alt Ego
-Hyperbolica
-BLAST-AXIS
-HYPER DEMON
-Revita
-Root Film
-Moonbreaker
-Hercules (1997)
-Disney's Tarzan
-Toy Story 2: Buzz Lightyear to the Rescue
-Kredolis
-The Drone Racing League Simulator
-Shovel Knight Dig
-[Chilla's Art] Night Delivery
-Potionomics
-Trifox
-The Case of the Golden Idol
-Hell is Others
-Mandragora
-Star Ocean The Divine Force
-Antichamber
-The Chant
-From Space
-Filament
-Saturnalia
-Venba
-Aka
-Pepper Grinder
-ONI: Road to be the Mightiest Oni
-Dordogne
-Wobbledogs
-WORLD OF HORROR
-Curse of the Sea Rats
-The Unfinished Swan
-SpiderHeck
-Berserk Boy 
-The Knight Witch
-Pants Quest
-Atama
-Dungeon Munchies
-Steelrising
-Brotato
-Chants of Sennaar
-Little Kitty, Big City
-Crime O'Clock
-Pineapple on pizza
-Point of Mew
-A Tavern for Tea
-Made in Ohio
-Sokfest
-Heartworm
-The Wreck
-Journey to Foundation
-Synapse
-The Foglands
-The Last Hero of Nostalgaia
-Alder Choke
-Five Dates
-Ten Dates
-Bramble: The Mountain King
-Professor Layton and the New World of Steam
-FANTASY LIFE i: The Girl Who Steals Time
-Baten Kaitos I & II HD Remaster
-Omega Strikers
-Harmony: The Fall of Reverie
-DECAPOLICE
-Ghost Trick: Phantom Detective
-Webbed
-Guts And Goals
-SPRAWL
-Epistory - Typing Chronicles
-The Last Clockwinder
-Snatcher
-Party Fowl
-Overboard!
-Evil West
-Deliver Us Mars
-Deliver Us The Moon
-BLACKTAIL
-Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey
-Severed Steel
-Strange Horticulture
-Chained Echoes
-Europa
-Crime Boss: Rockay City
-Judas
-Monsters, Inc. Scream Team
-MiLE HiGH TAXi
-Banishers: Ghosts of New Eden
-Earthblade
-Bayonetta Origins: Cereza and the Lost Demon
-Arise: A Simple Story
-After Us
-A Memoir Blue
-Re:CREATORS
-I Was a Teenage Exocolonist

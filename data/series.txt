@@ -2,6 +2,7 @@
 Adventure Time
 Adventure Time: Distant Lands
 After Life
+All Watched Over by Machines of Loving Grace
 Anime Crimes Division
 BoJack Horseman
 Bravest Warriors
@@ -23,16 +24,20 @@ Interface umami
 It's Always Sunny in Philadelphia
 Kantaro: The Sweet Tooth Salaryman
 Malcolm in the Middle
+Manifest
 Nuestro planeta
 Outlander
 Peaky Blinders
+Pinky y Cerebro
 Rea(l)ove
+Rick and Morty
 Ryan Hansen Solves Crimes on Television
 Sabrina The Teenage Witch
 Sex Education
 Simpsons
 Slings & Arrows
 The Idhun Chronicles
+The Last of Us
 The Midnight Gospel
 The Office
 The Queen's Gambit
@@ -41,8 +46,3 @@ The Witcher: Nightmare of the Wolf
 Think Like A Coder
 Vikingos
 You (2018)
-The Last of Us
-Pinky y Cerebro
-Rick and Morty
-All Watched Over by Machines of Loving Grace
-Manifest
