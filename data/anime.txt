@@ -33,6 +33,7 @@ Black Bullet
 Black Cat
 Black☆Rock Shooter
 Blade Runner: Black Lotus
+Blade Runner: Black Out 2022
 Blast of Tempest (Zetsuen no Tempest)
 Bleach
 Blue Flames
@@ -107,7 +108,8 @@ Great Pretender
 Grimgar of Fantasy and Ash
 Guilty Crown
 Gulliver Boy
-Gundam the Witch from Mercury
+Gundam: The Witch from Mercury
+Gundam Hathaway
 Hanebado!
 Haruhi Suzumiya
 Healer Girl
@@ -300,3 +302,60 @@ Your Lie in April
 Yurei Deco
 Yuri Is My Job!
 Yurikuma Arashi
+A Place Further Than The Universe
+The Tatami Time Machine Blues
+Super Crooks
+Bocchi The Rock!
+Dragon Age: Absolution
+Symphogear
+Full-Time Magister
+Akiba Maid War
+That Time I Got Reincarnated as a Slime
+Cyberpunk: Edgerunners
+The Legend of Heroes: Trails of Cold Steel - Northern War
+Chainsaw Man
+NieR: Automata Ver1.1a
+Digimon Ghost Game
+Cowboy Bebop
+Samurai Champloo
+The Fire Hunter
+REVENGER
+Kaina of the Great Snow Sea
+Full Moon
+Plastic Memories
+B't X
+Gunbuster
+Pokemon Horizons: The Series
+Drawn Together
+Doomsday With My Dog
+Shōjo Tsubaki (Midori)
+A Shinobi’s Moment
+Management of a Novice Alchemist
+Legend of Mana: The Teardrop Crystal
+Love Flops
+The Eminence in Shadow
+Immoral Guild
+Housing Complex C
+Super Cub
+Moribito: Guardian of the Spirit
+Saikano
+More Than a Married Couple, But Not Lovers
+Blue Lock
+Frieren: Beyond Journey's End
+The Magical Revolution of the Reincarnated Princess and the Genius Young Lady
+Reborn to Master the Blade: From Hero-King to Extraordinary Squire
+Chillin' in My 30s After Getting Fired from the Demon King's Army
+Saving 80,000 Gold in Another World for My Retirement
+Giant Beasts of Ars
+High Card
+Onimai: I'm Now Your Sister!
+Kubo Won't Let Me Be Invisible
+The Angel Next Door Spoils Me Rotten
+Apparently, Disillusioned Adventurers Will Save the World
+Trigun Stampede 
+Buddy Daddies
+The Ice Guy and His Cool Female Colleague
+Spy Classroom
+Tomo-chan Is a Girl!
+Is It Wrong to Try to Pick Up Girls in a Dungeon?
+Genshin Impact

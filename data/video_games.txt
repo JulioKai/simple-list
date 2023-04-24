@@ -146,7 +146,6 @@ Big Crown: Showdown
 Billion Road
 Biomutant
 BioShock: The Collection
-Birth
 BIT.TRIP: RUNNER
 Biwar Legend
 Black Book
@@ -401,7 +400,7 @@ Etrian Odyssey
 EVE Academy
 Evergate
 Everhood
-everspace
+EVERSPACE
 EVERSPACE 2
 Everwild
 Everything
@@ -554,6 +553,7 @@ GYLT
 Hacknet
 Hacknet - Labyrinths
 Hades
+Hades II
 Half-Life (1)
 Half-Life 2 (4)
 Half-Life 2: Episode One (5)
@@ -597,6 +597,7 @@ Ho-Ho-Home Invasion
 Hoa
 Hob
 Hollow Knight
+Hollow Knight: Silksong
 Holocure
 Homebody
 Homeworld
@@ -1472,7 +1473,7 @@ Wavetale
 Wayward Strand
 We Are OFK
 We Happy Few
-We Love Katamari Reroll
+We Love Katamari REROLL+ Royal Reverie
 We Went Back
 We Were Here
 We Were Here Forever
@@ -1530,3 +1531,185 @@ Yume Nikki
 Zengeon
 ZeroRanger
 Zone of the Enders
+The Excavation of Hob's Barrow
+The Eternal Cylinder
+Katawa Shoujo
+Slice & Dice
+Somerholm
+The Grinch (Konami)
+Norco
+Patrick's Parabox
+Donut Dodo
+Soulstone Survivors
+SpellMaster: The Saga
+Weird RPG (INDIECN)
+Starstruck Vagabond
+DREDGE
+Children of Silentown
+The Professional (Torfi)
+Roadwarden
+Made in Abyss: Binary Star Falling into Darkness
+Lunistice
+LONE RUIN
+Interior Worlds
+A Space for the Unbound
+Estencel
+One Hand Clapping
+Hi-Fi Rush
+SEASON: A letter to the future
+Shadows of Doubt
+Dragon Age: Inquisition
+Einhänder
+Dust & Neon
+Mars First Logistics
+Pan'orama
+Driftwood (Stoked Sloth Interactive)
+Super Adventure Hand
+Cardboard Town
+A Space for the Unbound
+The Quiet Man
+Marble it Up!
+Super Monkey Ball Banana Mania
+Trinity Fusion
+Outer Space: War Gears
+Ravenbound
+Sail Forth
+Elderand
+A Highland Song
+Mask of the Rose
+Open Roads
+ROUTINE
+Songs of Glimmerwick
+We Stay Behind
+Humanity (2023)
+Lakeburg Legacies
+Birth (Madison Karrh)
+Chronophoto
+West Hunt
+The Complex: Found Footage
+Scars Above
+Wobbly Life
+Lone Echo
+Boundary
+Hyper Light Breaker
+JellyCar Worlds
+Storyteller
+Lords of the Fallen
+Henry Halfhead
+Gripper
+The Murder of Sonic the Hedgehog
+Ravenswatch
+Q REMASTERED
+Tunche
+Supplice
+Sky Rogue
+Touch Type Tale
+Rusted Moss
+The Typing of The Dead: Overkill
+Happy Game (Amanita Design)
+Immortals of Aveum
+El Paso, Elsewhere
+Viewfinder
+Life by You
+Surmount
+Mineko's Night Market
+Stray Gods: The Roleplaying Musical
+Strayed Lights
+Wildfrost
+Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda
+Ctrl Alt Ego
+Hyperbolica
+BLAST-AXIS
+HYPER DEMON
+Revita
+Root Film
+Moonbreaker
+Hercules (1997)
+Disney's Tarzan
+Toy Story 2: Buzz Lightyear to the Rescue
+Kredolis
+The Drone Racing League Simulator
+Shovel Knight Dig
+[Chilla's Art] Night Delivery
+Potionomics
+Trifox
+The Case of the Golden Idol
+Hell is Others
+Mandragora
+Star Ocean The Divine Force
+Antichamber
+The Chant
+From Space
+Filament
+Saturnalia
+Venba
+Aka
+Pepper Grinder
+ONI: Road to be the Mightiest Oni
+Dordogne
+Wobbledogs
+WORLD OF HORROR
+Curse of the Sea Rats
+The Unfinished Swan
+SpiderHeck
+Berserk Boy 
+The Knight Witch
+Pants Quest
+Atama
+Dungeon Munchies
+Steelrising
+Brotato
+Chants of Sennaar
+Little Kitty, Big City
+Crime O'Clock
+Pineapple on pizza
+Point of Mew
+A Tavern for Tea
+Made in Ohio
+Sokfest
+Heartworm
+The Wreck
+Journey to Foundation
+Synapse
+The Foglands
+The Last Hero of Nostalgaia
+Alder Choke
+Five Dates
+Ten Dates
+Bramble: The Mountain King
+Professor Layton and the New World of Steam
+FANTASY LIFE i: The Girl Who Steals Time
+Baten Kaitos I & II HD Remaster
+Omega Strikers
+Harmony: The Fall of Reverie
+DECAPOLICE
+Ghost Trick: Phantom Detective
+Webbed
+Guts And Goals
+SPRAWL
+Epistory - Typing Chronicles
+The Last Clockwinder
+Snatcher
+Party Fowl
+Overboard!
+Evil West
+Deliver Us Mars
+Deliver Us The Moon
+BLACKTAIL
+Shin chan: Me and the Professor on Summer Vacation The Endless Seven-Day Journey
+Severed Steel
+Strange Horticulture
+Chained Echoes
+Europa
+Crime Boss: Rockay City
+Judas
+Monsters, Inc. Scream Team
+MiLE HiGH TAXi
+Banishers: Ghosts of New Eden
+Earthblade
+Bayonetta Origins: Cereza and the Lost Demon
+Arise: A Simple Story
+After Us
+A Memoir Blue
+Re:CREATORS
+I Was a Teenage Exocolonist
