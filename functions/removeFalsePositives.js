@@ -1,4 +1,4 @@
-const falsePositives = require('../data/falsePositives')
+const falsePositives = require('../data/falsePositivesLevenshtein')
 
 const removeDuplicates = (obj1, fileName) => {
     if (falsePositives[fileName]) {
