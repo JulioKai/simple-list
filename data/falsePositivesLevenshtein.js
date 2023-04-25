@@ -407,7 +407,26 @@ exports.books = {
 exports.light_novels = {}
 
 exports.manga = {
-  // pending
+  "Shaman King Flowers": [
+    "Shaman King Marcos",
+    "Shaman King Red Crimson",
+    "Shaman King Zero"
+  ],
+  "Shaman King Marcos": [
+      "Shaman King Flowers",
+      "Shaman King Red Crimson",
+      "Shaman King Zero"
+  ],
+  "Shaman King Red Crimson": [
+      "Shaman King Flowers",
+      "Shaman King Marcos",
+      "Shaman King Zero"
+  ],
+  "Shaman King Zero": [
+      "Shaman King Flowers",
+      "Shaman King Marcos",
+      "Shaman King Red Crimson"
+  ]
 }
 
 exports.movies = {
